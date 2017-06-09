@@ -13,7 +13,7 @@
 	</parent>
 
 
-	<name>Ejb-archetype</name>
+	<name>EjbArchetype</name>
 
 
 	<licenses>
@@ -24,9 +24,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<url>https://github.com/nleva/CDIEndpoint</url>
-		<connection>scm:git:https://github.com/nleva/CDIEndpoint.git</connection>
-		<developerConnection>scm:git:https://github.com/nleva/CDIEndpoint.git</developerConnection>
+		<url>https://github.com/nleva/${project.name}</url>
+		<connection>scm:git:https://github.com/nleva/${project.name}.git</connection>
+		<developerConnection>scm:git:https://github.com/nleva/${project.name}.git</developerConnection>
 		<tag>ejb-plugin-javaee7-0.0.1</tag>
 	</scm>
 	<developers>
